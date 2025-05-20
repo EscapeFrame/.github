@@ -3,7 +3,7 @@
 <a href="">
 
 <div class="project_list">
-  <table>
+  <table border="1">
     <tr>
       <td>CLUE</td>
     </tr>
