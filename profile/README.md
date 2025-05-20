@@ -9,11 +9,11 @@
 
 | 이름 | 역할 | 기술 스택 |
 |------|------|------------|
-| 김민재 | 팀장 / 풀스택 / 인공지능 | Spring , Pytouch |
-| 김한결 | 백엔드 | Spring |
-| 공덕현 | 프론트 | React |
-| 노유현 | 디자인 | Figma, React |
-| 안재민 | 프론트 | Flutter |
+| [김민재](https://github.com/fixgramwork) | 팀장 / 풀스택 / 인공지능 | Spring , Pytouch |
+| [김한결](https://github.com/Hgyeol) | 백엔드 | Spring |
+| [공덕현](https://github.com/orgs/EscapeFrame/people/kongduk) | 프론트 | React |
+| [노유현](https://github.com/Rohyoohyun) | 디자인 | Figma, React |
+| [안재민](https://github.com/dkswoans) | 프론트 | Flutter |
 
 ---
 
