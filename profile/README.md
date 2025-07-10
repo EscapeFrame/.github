@@ -13,7 +13,7 @@
 | [김한결](https://github.com/Hgyeol) | 백엔드 | Spring |
 | [공덕현](https://github.com/orgs/EscapeFrame/people/kongduk) | 프론트 | React |
 | [노유현](https://github.com/Rohyoohyun) | 디자인 | Figma, React |
-| [안재민](https://github.com/dkswoans) | 프론트 | Flutter |
+| [안재민](https://github.com/dkswoans) | 앱 | Flutter |
 
 ---
 
@@ -22,7 +22,7 @@
 ### 1. CLUE
 > 클라우드 기반 교육 지원 서비스
 
-- 기술 스택: Spring Boot, React, Postgresql, 
+- 기술 스택: Spring Boot, React, Postgresql, Flutter
 - 주요 기능:
   - Notion, GoogleClassRoom, goorm에서만 누릴수 있었던 모든 기능 제공
   - RAG를 활용한 시험 대비 문제 제공
