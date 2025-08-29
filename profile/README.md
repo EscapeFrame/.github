@@ -32,13 +32,6 @@
 
 ---
 
-## 📌 기술 스택
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
----
-
 ## 🔗 Contact
 
 - 💬 팀장 이메일: kimminje661@outlook.kr
-- 🌐 Github: [CLUE](https://github.com/orgs/EscapeFrame/dashboard)
