@@ -9,7 +9,7 @@
 ### 2025
 | 이름 | 역할 | 기술 스택 |
 |------|------|------------|
-| [김민재](https://github.com/fixgramwork) | 팀장 / 백엔드 / 인공지능 |
+| [김민재](https://github.com/fixgramwork) | 팀장 & 기획 / 백엔드 / 인공지능 |
 | [김한결](https://github.com/Hgyeol) | 백엔드 | Spring |
 | [공덕현](https://github.com/orgs/EscapeFrame/people/kongduk) | 프론트 |
 | [노유현](https://github.com/Rohyoohyun) | 디자인 / 프론트 |
