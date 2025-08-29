@@ -8,7 +8,7 @@
 ## 🧑‍💻 구성원
 ### 2025
 | 이름 | 역할 |
-|------|------|------------|
+|------|------|
 | [김민재](https://github.com/fixgramwork) | 팀장 & 기획 / 백엔드 / 인공지능 |
 | [김한결](https://github.com/Hgyeol) | 백엔드 | Spring |
 | [공덕현](https://github.com/orgs/EscapeFrame/people/kongduk) | 프론트 |
