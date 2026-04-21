@@ -28,7 +28,7 @@
   - RAG를 활용한 시험 대비 문제 제공
   - 선생님들의 수업자료 제작을 도와주는 AI Agent 제공
 
-[📎 프로젝트 설명 듣기 ](https://victorious-secure-70d.notion.site/CLUE-1e41a084dc4680cf96b4de2e708f9a4e?pvs=4)
+[📎 프로젝트 설명 듣기 ](https://bssm.notion.site/Paletto-264f4899fc868056870de0c479446aca)
 
 ---
 
